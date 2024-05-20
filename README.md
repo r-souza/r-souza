@@ -2,16 +2,16 @@
 
 <div align="center">
   <a href="https://github.com/r-souza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs"/>
+<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=r-souza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=contribs"/> -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-souza&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
 
 <div style="display: inline_block"><br>
-  <img align="center" title="Laravel Framework" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+  <img align="center" title="Laravel Framework" alt="Laravel" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
   <img align="center" title="Angular" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />  
-  <img align="center" title="NestJS" alt="NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />    
+  <img align="center" title="NestJS" alt="NestJS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />    
   <img align="center" title="Python" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
   <img align="center" title="Linux" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
   <img align="center" title="MySQL" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
